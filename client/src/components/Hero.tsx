@@ -23,14 +23,11 @@ const Hero = () => {
       <div className="container mx-auto">
         <div className="max-w-4xl mx-auto text-center">
           <div className="animate-fade-in mb-4">
-            <svg
-              className="w-32 h-32 rounded-full mx-auto bg-white/20 text-white p-2"
-              viewBox="0 0 24 24"
-              fill="currentColor"
-              aria-hidden="true"
-            >
-              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
-            </svg>
+            <img
+              src="https://i.postimg.cc/WbBLzLmH/Whats-App-Image-2025-05-11-at-16-28-42-540deeca.jpg"
+              alt="Avatar"
+              className="w-32 h-32 rounded-full mx-auto bg-white/20 object-cover"
+            />
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4 animate-fade-in">
@@ -44,7 +41,7 @@ const Hero = () => {
           <div className="flex flex-wrap justify-center gap-4 mb-8 animate-fade-in delay-200">
             <button
               onClick={() => handleScrollToSection("contact")}
-              className="px-6 py-3 bg-white text-primary-600 font-semibold rounded-full shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300"
+              className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-full shadow-md hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300"
             >
               Get in Touch
             </button>
