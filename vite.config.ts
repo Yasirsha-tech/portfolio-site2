@@ -16,4 +16,9 @@ export default defineConfig({
     outDir: "../dist",
     emptyOutDir: true,
   },
+  preview: {
+    host: "0.0.0.0", // Ensure the server is accessible externally
+    port: 4173, // Default port for Vite preview
+    allowedHosts: ["healthcheck.railway.app"], // Allow Railway's health check host
+  },
 });
