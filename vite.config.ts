@@ -8,8 +8,6 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "client", "src"),
-      "@shared": path.resolve(__dirname, "../shared"),
-      "@assets": path.resolve(__dirname, "../attached_assets"),
     },
   },
   build: {
@@ -17,8 +15,8 @@ export default defineConfig({
     emptyOutDir: true,
   },
   preview: {
-    host: "0.0.0.0", // Ensure the server is accessible externally
-    port: 4173, // Default port for Vite preview
+    host: "0.0.0.0",
+    port: 4173,
     allowedHosts: ["healthcheck.railway.app"], // Allow Railway's health check host
   },
 });
