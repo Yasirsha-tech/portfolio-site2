@@ -30,7 +30,7 @@ const Education = () => {
                 <div className="inline-block px-3 py-1 bg-primary-100 dark:bg-primary-900/30 text-primary-700 dark:text-primary-300 rounded-full text-sm mb-2">2023 - Present</div>
                 <h4 className="text-lg font-medium text-gray-800 dark:text-white">Bachelor of Computer Applications (BCA)</h4>
                 <p className="text-gray-600 dark:text-gray-300">East Point College, Bangalore</p>
-                <p className="text-gray-500 dark:text-gray-400 mt-2">Currently in 2nd Year, Expected Graduation: 2025</p>
+                <p className="text-gray-500 dark:text-gray-400 mt-2">Currently in 2nd Year, Expected Graduation: 2026</p>
               </div>
             </div>
 
@@ -73,7 +73,7 @@ const Education = () => {
                   <span className="text-xs text-gray-500 dark:text-gray-400">
                     <i className="ri-calendar-line mr-1"></i> 2023
                   </span>
-                  <a href="#" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
+                  <a href="https://www.credly.com/badges/434a7565-bcf5-46c8-90f2-5fbfec39b7a1/public_url" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
                     Verify
                     <i className="ri-external-link-line ml-1"></i>
                   </a>
@@ -111,7 +111,7 @@ const Education = () => {
                   <span className="text-xs text-gray-500 dark:text-gray-400">
                     <i className="ri-calendar-line mr-1"></i> 2023
                   </span>
-                  <a href="#" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
+                  <a href="https://api2.sololearn.com/v2/certificates/CC-VVKESHW2/image/png?t=638371803512815010" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
                     Verify
                     <i className="ri-external-link-line ml-1"></i>
                   </a>
@@ -130,7 +130,7 @@ const Education = () => {
                   <span className="text-xs text-gray-500 dark:text-gray-400">
                     <i className="ri-calendar-line mr-1"></i> 2023
                   </span>
-                  <a href="#" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
+                  <a href="https://www.credly.com/badges/d430b8ea-b2f7-4d04-9746-282d5984765c/public_url" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 transition-colors text-sm">
                     Verify
                     <i className="ri-external-link-line ml-1"></i>
                   </a>

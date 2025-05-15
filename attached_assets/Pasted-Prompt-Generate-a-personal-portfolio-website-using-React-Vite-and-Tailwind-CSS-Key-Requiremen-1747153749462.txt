@@ -25,7 +25,7 @@ Objective Section:
 A passionate BCA student at East Point College, Bangalore, with a strong foundation in full-stack development, cloud computing (AWS), and AI tools. Eager to use technology to solve real-world problems, boost productivity, and continuously learn emerging tech.
 
 Education Section:
-Bachelor of Computer Applications (BCA), East Point College, Bangalore (Currently in 2nd Year, Expected Graduation: 2025).
+Bachelor of Computer Applications (BCA), East Point College, Bangalore (Currently in 2nd Year, Expected Graduation: 2026).
 
 Skills Section:
 

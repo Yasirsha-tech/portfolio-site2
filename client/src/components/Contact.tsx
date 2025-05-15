@@ -16,11 +16,9 @@ const Contact = () => {
           question, or just want to connect.
         </p>
 
-        <form
-          action="https://formsubmit.co/yasirsha404@gmail.com"
-          method="POST"
-          className="space-y-6"
-        >
+      <form action="https://formsubmit.co/836c734ea73f825ba15dde960200df3c" method="POST" className="space-y-6">
+
+      
           <div>
             <label
               htmlFor="name"
@@ -76,7 +74,7 @@ const Contact = () => {
           <input
             type="hidden"
             name="_next"
-            value="https://yourdomain.com/thank-you"
+            value="https://portfolio-site-production-3809.up.railway.app/"
           />
 
           <button
