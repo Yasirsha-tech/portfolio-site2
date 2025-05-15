@@ -28,7 +28,7 @@ const Skills = () => {
               <div className="space-y-3">
                 <div>
                   <div className="flex justify-between mb-1">
-                    <span className="text-gray-700 dark:text-gray-300">Python</span>
+                    <span className="text-gray-700 dark:text-gray-300">Python & Java</span>
                     <span className="text-gray-500 dark:text-gray-400">Advanced</span>
                   </div>
                   <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
@@ -38,7 +38,7 @@ const Skills = () => {
 
                 <div>
                   <div className="flex justify-between mb-1">
-                    <span className="text-gray-700 dark:text-gray-300">c,c++</span>
+                    <span className="text-gray-700 dark:text-gray-300">c & c++</span>
                     <span className="text-gray-500 dark:text-gray-400">Intermediate</span>
                   </div>
                   <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
@@ -48,7 +48,7 @@ const Skills = () => {
 
                 <div>
                   <div className="flex justify-between mb-1">
-                    <span className="text-gray-700 dark:text-gray-300">Python</span>
+                    <span className="text-gray-700 dark:text-gray-300">VB.net</span>
                     <span className="text-gray-500 dark:text-gray-400">Basics</span>
                   </div>
                   <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2">
@@ -162,13 +162,13 @@ const Skills = () => {
               <div className="mb-4">
                 <h4 className="font-medium text-gray-800 dark:text-white">Bachelor of Computer Applications (BCA)</h4>
                 <p className="text-gray-600 dark:text-gray-300">East Point College, Bangalore</p>
-                <p className="text-gray-500 dark:text-gray-400 text-sm">Currently in 2nd Year (Expected Graduation: 2025)</p>
+                <p className="text-gray-500 dark:text-gray-400 text-sm">Currently in 2nd Year (Expected Graduation: 2026)</p>
               </div>
 
               <div className="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-2 mb-2">
                 <div className="bg-primary-500 h-2 rounded-full w-6/12"></div>
               </div>
-              <p className="text-xs text-gray-500 dark:text-gray-400 text-right">50% completed</p>
+              <p className="text-xs text-gray-500 dark:text-gray-400 text-right">60% completed</p>
             </div>
           </div>
         </div>
